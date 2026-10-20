@@ -3,10 +3,3 @@ This project represents a complete, industry standard, end-to-end data analytics
 
 # 📌 Project Overview
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
-
-# 🛠️ How to Use This Project
---> *Clone the repository*
-   ```bash
-   git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-   cd customer-trends-data-analysis-SQL-Python-PowerBI
-   ```
